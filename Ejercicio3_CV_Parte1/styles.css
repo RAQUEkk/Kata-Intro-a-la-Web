@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 2px;
+    padding: 2px;
+}
+
+header{
+    display: flex;
+    padding: 20px;
+    background-color: rgb(218, 242, 196);
+    align-items: center;
+}
+
+#image-profile{
+    width: 270px;
+    height: 350px;
+    border-radius: 150px;
+    border: 05px solid rgb(255, 255, 255);
+}
+
+.profile-description{
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.lateral{
+    margin: 20px;
+}
